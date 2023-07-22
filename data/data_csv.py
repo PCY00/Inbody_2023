@@ -4,7 +4,7 @@ import datetime
 
 # 주어진 JSON 데이터
 data_json = '''
-#넣을 데이터
+
 '''
 
 # JSON 데이터를 Python 리스트로 변환
